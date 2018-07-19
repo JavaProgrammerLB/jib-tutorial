@@ -2,4 +2,4 @@
 jib使用教程
 
 ## jib
-[代码仓库](https://github.com/GoogleContainerTools/jib.git)
+[jib 源码地址](https://github.com/GoogleContainerTools/jib.git)
